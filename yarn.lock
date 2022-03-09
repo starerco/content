@@ -67,10 +67,10 @@
   resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.1.10.tgz#7488205d83b2e8c54a4e6b659f496d09c48152cb"
   integrity sha512-z3UzXqOjrgUnKENwdhFZmU7oeEWTOjUmWGQtXTOEbTR1FdwSBF6RCU6RPkv10ryP00y5ybCUm++4t5B8Wc3tPg==
 
-"@mdn/yari@0.7.10":
-  version "0.7.10"
-  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.7.10.tgz#905455afe2028ca944757a1921ec26c34cb81bce"
-  integrity sha512-MBVwLCQN18w0bjAM87UIJT5hl1M0r+O8go2ksGvV9XNI+0Qj6hEZh4BEyIX5Jmllh29kkdagWnv16hcpqux4gg==
+"@mdn/yari@0.7.19":
+  version "0.7.19"
+  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.7.19.tgz#6cc610fbe7807ae175c8e4ed37c25a89b557263c"
+  integrity sha512-lcckYyxvsNJzgcVMZ8+5VCwYVITKBPzSdIFzEm5zUkBYcAm6IN477iFICWKJef8+DsMajqxmvVsvk6zsQd1+aA==
   dependencies:
     "@babel/helper-builder-react-jsx" "^7.16.7"
     "@caporal/core" "2.0.2"
@@ -90,7 +90,7 @@
     dotenv "14.3.0"
     ejs "3.1.6"
     express "4.17.3"
-    fast-xml-parser "4.0.5"
+    fast-xml-parser "4.0.6"
     fdir "5.2.0"
     file-type "16.5.3"
     front-matter "^4.0.2"
@@ -1687,10 +1687,10 @@ fast-safe-stringify@^2.0.4:
   resolved "https://registry.yarnpkg.com/fast-safe-stringify/-/fast-safe-stringify-2.0.7.tgz#124aa885899261f68aedb42a7c080de9da608743"
   integrity sha512-Utm6CdzT+6xsDk2m8S6uL8VHxNwI6Jub+e9NYTcAms28T84pTa25GJQV9j0CY0N1rM8hK4x6grpF2BQf+2qwVA==
 
-fast-xml-parser@4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.0.5.tgz#583bdca78e99d29b46a4f88fb560d8fa240964c3"
-  integrity sha512-B3eG9unGn4SqG6Fdwhc4eaIFBSN/0CdqUKG1nzjLuojhMyq4qMxNShzng0QjOW3swE3MhERMf70u7C/XnzmshA==
+fast-xml-parser@4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.0.6.tgz#bd0b75badc7abfc55c772f6a0c21e417ad989743"
+  integrity sha512-RHz47iX/DKT6BQwYQUmKG/1fuC5g2s/TibpxNvE+0ysnpSJxePFzsJvRDtfGhLRg3zdKMzO6EJn8n7+AJ6pSHg==
   dependencies:
     strnum "^1.0.5"
 
