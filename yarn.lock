@@ -67,10 +67,10 @@
   resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.2.1.tgz#1fead437f3957ceebe2e8c3f46beccdb9bc575b8"
   integrity sha512-EWUguj2kd7ldmrF9F+vI5hUOralPd+sdsUnYbRy33vZTuZkduC1shE9TtEMEjAQwyfyMb4ole5KtjF8MsnQOlA==
 
-"@mdn/yari@0.16.4":
-  version "0.16.4"
-  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.16.4.tgz#f127b51ffa4d62858eb6ea7e01caba9e829b88f9"
-  integrity sha512-NLFrmGyF2Ij1Mlat5Jb7RAcmmVyUJaer7nhulOacPosEc1uPFxa9hzZSzvc1UCwb3ksiP1zPIOD78T6ED85hag==
+"@mdn/yari@0.16.8":
+  version "0.16.8"
+  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.16.8.tgz#80177d3480503fefb27bdab554b3805dd0c04a34"
+  integrity sha512-ycXVMH4Dn0glXcTGxWILxNWYfGqd+CSPfvIrkzvfDsTHOZTzMLYWElM6RU637jtC78mbMsrpbJC59c1zn7ApEw==
   dependencies:
     "@babel/helper-builder-react-jsx" "^7.16.7"
     "@caporal/core" "^2.0.2"
@@ -80,7 +80,7 @@
     accept-language-parser "^1.5.0"
     browser-specs "^3.11.0"
     chalk "^4.1.2"
-    cheerio "^1.0.0-rc.10"
+    cheerio "^1.0.0-rc.11"
     cli-progress "^3.11.1"
     compression "^1.7.4"
     cookie "^0.5.0"
@@ -798,7 +798,7 @@ cheerio-select@^2.1.0:
     domhandler "^5.0.3"
     domutils "^3.0.1"
 
-cheerio@^1.0.0-rc.10:
+cheerio@^1.0.0-rc.11:
   version "1.0.0-rc.11"
   resolved "https://registry.yarnpkg.com/cheerio/-/cheerio-1.0.0-rc.11.tgz#1be84be1a126958366bcc57a11648cd9b30a60c2"
   integrity sha512-bQwNaDIBKID5ts/DsdhxrjqFXYfLw4ste+wMKqWA8DyKcS4qwsPP4Bk8ZNaTJjvpiX/qW3BT4sU7d6Bh5i+dag==
