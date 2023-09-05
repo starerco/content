@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: dlang-community/setup-dlang@43589c229861e1720e187a344c67dad1d9eefe4c
 
     - name: 'Build & Test'
