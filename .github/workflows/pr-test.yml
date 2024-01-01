@@ -145,7 +145,7 @@ jobs:
           echo "After..."
           du -sh build
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         if: ${{ env.GIT_DIFF_CONTENT }}
         with:
           name: build
